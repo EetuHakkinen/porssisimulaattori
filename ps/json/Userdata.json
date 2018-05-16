@@ -1,0 +1,81 @@
+[
+  {
+    "Username": "eetuh",
+    "Password": "$MYHASH$V1$10000$iiSb5p47zqJQ+9+gXwNd9P8La6u1Q8LFUrTcHtzoJcM1OU1c",
+    "Stocks": {
+      "Stocks": [
+        {
+          "ExchangeID": "KNE",
+          "Name": null,
+          "Currency": null,
+          "ExchangeRate": 0.0,
+          "BuyPrice": 40.0,
+          "BuyDate": "03/22/2018 00:00:00",
+          "Quantity": 0,
+          "SharePrice": 0.0,
+          "Change": 0.0,
+          "Chart": [],
+          "Keys": [],
+          "Volumes": null
+        },
+        {
+          "ExchangeID": "FORTUM",
+          "Name": null,
+          "Currency": null,
+          "ExchangeRate": 0.0,
+          "BuyPrice": 18.355,
+          "BuyDate": "03/22/2018 00:00:00",
+          "Quantity": 0,
+          "SharePrice": 0.0,
+          "Change": 0.0,
+          "Chart": [],
+          "Keys": [],
+          "Volumes": null
+        }
+      ]
+    }
+  },
+  {
+    "Username": "teemu",
+    "Password": "$MYHASH$V1$10000$1NvKgHwpKK9OBFE7T8lgCD150EzDjiHzXo29E+bhaZJaqjsU",
+    "Stocks": {
+      "Stocks": []
+    }
+  },
+  {
+    "Username": "Eetu",
+    "Password": "$MYHASH$V1$10000$mNzbePJ8eohcWUvnzoZya0UZBDEq5kr3lhPn71ybE6ZTE/RS",
+    "Stocks": {
+      "Stocks": [
+        {
+          "ExchangeID": "KNE",
+          "Name": null,
+          "Currency": null,
+          "ExchangeRate": 0.0,
+          "BuyPrice": 40.46,
+          "BuyDate": "03/22/2018 08:31:55",
+          "Quantity": 0,
+          "SharePrice": 0.0,
+          "Change": 0.0,
+          "Chart": [],
+          "Keys": [],
+          "Volumes": null
+        },
+        {
+          "ExchangeID": "SAMPO",
+          "Name": null,
+          "Currency": null,
+          "ExchangeRate": 0.0,
+          "BuyPrice": 45.15,
+          "BuyDate": "03/22/2018 08:38:59",
+          "Quantity": 0,
+          "SharePrice": 0.0,
+          "Change": 0.0,
+          "Chart": [],
+          "Keys": [],
+          "Volumes": null
+        }
+      ]
+    }
+  }
+]
